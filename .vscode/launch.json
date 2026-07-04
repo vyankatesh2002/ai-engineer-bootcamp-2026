@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run (practice.py) - Always",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/Python/day 2/practice.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Run (currently open file)",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
