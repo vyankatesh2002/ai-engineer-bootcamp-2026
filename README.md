@@ -1,37 +1,20 @@
-# AI Bootcamp 2026 🚀
+﻿# AI Engineer Bootcamp 2026
 
-## About
-This repository documents my complete journey to becoming an AI Engineer.
+A structured hands-on learning repository documenting my progression toward production-ready AI engineering.
+
+## Focus Areas
+- Python
+- SQL and PostgreSQL
+- Machine Learning
+- Deep Learning
+- NLP and Transformers
+- RAG
+- FastAPI
+- AI Agents
+- Docker
+
+## Status
+Active learning repository.
 
 ## Goal
-Become an AI/ML Engineer by the end of 2026.
-
-## Skills to Master
-- Python
-- SQL
-- Git & GitHub
-- Linux
-- Data Structures & Algorithms
-- Machine Learning
-- Deep Learning (PyTorch)
-- OpenCV
-- YOLO
-- LLMs
-- RAG
-- AI Agents
-- FastAPI
-- Docker
-- AWS
-
-## Learning Rules
-- Code every day.
-- Push code to GitHub every day.
-- Build real-world projects.
-- Learn by doing.
-
-## Progress
-
-### Day 1
-- Repository Created ✅
-- Git Initialized ✅
-- README Created ✅
+Build strong, production-oriented AI engineering skills through consistent hands-on implementation.
